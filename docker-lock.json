@@ -1,0 +1,12 @@
+{
+	"dockerfiles": {
+		"Dockerfile": [
+			{
+				"name": "python",
+				"tag": "3",
+				"digest": "2c1045587e4452d49544c6dce92efe21c3b4b33864cfb56fdee66a2c8585c769"
+			}
+		]
+	},
+	"composefiles": {}
+}
