@@ -4,9 +4,8 @@
 			{
 				"name": "python",
 				"tag": "3",
-				"digest": "1a126607adde46a706e76357c910f36b9f5529fb575d4d86a639a4997daceba7"
+				"digest": "b6a9702c4b2f9ceeff807557a63a710ad49ce737ed85c46174a059a299b580f2"
 			}
 		]
-	},
-	"composefiles": {}
+	}
 }
