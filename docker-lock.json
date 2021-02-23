@@ -1,11 +1,11 @@
 {
-	"dockerfiles": {
-		"Dockerfile": [
-			{
-				"name": "python",
-				"tag": "3",
-				"digest": "e2cd43d291bbd21bed01bcceb5c0a8d8c50a9cef319a7b5c5ff6f85232e82021"
-			}
-		]
-	}
+  "dockerfiles": {
+    "Dockerfile": [
+      {
+        "name": "python",
+        "tag": "3",
+        "digest": "e2cd43d291bbd21bed01bcceb5c0a8d8c50a9cef319a7b5c5ff6f85232e82021"
+      }
+    ]
+  }
 }
